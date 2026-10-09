@@ -20,7 +20,7 @@ header{
 }
 header h1{
   /* Insert a color property and set it's value to white  */
-  colour: white;
+  color: white;
   /* Insert a border property and set it's value to 8px solid white  */
   border: 8px white;
   /* Insert a display property and set it's value to inline-block  */
