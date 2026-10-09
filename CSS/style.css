@@ -7,8 +7,10 @@ body, ul, li, h1, h2, a{
   /* Insert a font-family property and set it's value to tahoma
   font-family: tahoma;
 }
+
 p{
   /* Insert a font-size property and set it's value to 18px */
+  font-size: 18px;
 }
 header{
 
