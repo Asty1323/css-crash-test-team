@@ -155,10 +155,15 @@ form {
 }
 form input{
   /* Insert a margin property and set it's value to 20px and 0  */
+  margin: 20px 0;
   /* Insert a padding property and set it's value to 10px and 20px */ 
+  padding: 10px 20px;
   /* Insert a font-size property and set it's value to 24px */
+  font-size: 24px;
   /* Insert a border-radius property and set it's value to 28px */ 
+  border-radius: 28px;
   /* Insert a border property and set it's value to 4px solid and white */
+  border: 4px white;
 }
 form textarea{
   margin: 20px 0;
